@@ -1,48 +1,49 @@
 # ROACHVENTURES
 
-![Frame 7](https://github.com/SaraHuLihua/Roachventures/assets/148463154/57f6be38-67c7-491b-a67e-5cdd26b6276b)
+Welcome to the adventurous world of Roachventures, the arcade game where a heroic cockroach fights for his survival in the underworld!
+
+![Frame 7](https://github.com/SaraHuLihua/Roachventures/assets/148463154/f212a602-f6a7-46d3-b35d-de017a30243f)
 
 
----
-<div style="line-height: 3;">
+## Table of Contents
 
-*How many times has it happened to you that you cannot sleep because of so many thoughts? Because of stress and anxiety?*  
-*How often have you wished you had someone to listen to your thoughts without saying anything, just so you could vent and finally sleep?*  
-It was in answering these questions that Sleepot was born.   
+- [Authors](#authors)
+- [Story](#story)
+- [Screen Layout](#screen-layout)
+- [Controls](#controls)
+- [Characters](#characters)
 
-Sleepot was born with the aim of reducing the stress and anxiety that keeps students awake, and process their feelings.   
-We wanted to offer university students a platform where they cannot only express and process their emotions but also seek advice to clear their minds before bedtime.   
+## Authors
+- Sara Hu Lihua
+  **Game Developer** (https://github.com/SaraHuLihua)
+- Gianrocco Di Tomaso
+  **Game Designer** (https://github.com/SaraHuLihua)
+- Beniamino Gentile
+  **Game Developer** (https://github.com/SaraHuLihua)
+- Alessandra Amorico
+  **Game Designer** (https://github.com/SaraHuLihua)
 
+## Story
+Once upon a time, there was a brave little cockroach who lived a quiet life. His typical day consisted of foraging for food and hiding from humans.
+One day, however, his quiet life was disrupted. A family became aware of the cockroach's presence and decided to end its existence with a powerful disinfectant. Frightened and determined to survive, the cockroach fled underground, embarking on an epic journey to escape the disinfestation and its inevitable end.
 
+Will our hero be saved?
 
-It All starts with one question: *How do you feel?*    
-But one of the main features of Sleepot, it’s Potty, you pour your thoughts and emotions into it, just as you would when confiding to a close friend.   
-This not only helps you express your feelings but also acts as a powerful tool to clear your mind.   
-But not only Sleepot listen to your thoughts, it also gives a response following a workflow from your input to its response.   
-Sleepot, symbolized by the glass pot, is there to listen, guide, and support you through those challenging moments, just like a trusted companion. And once you get the response, if you are not satisfied with the answer you can ask for another one, and if you are well… that means Sleepot worked and you can go to sleep!  
-
-</div>
-
-![Roachadventures](https://github.com/SaraHuLihua/Roachventures/assets/148463154/92510b5e-1091-4d14-b5cb-b7b2b6aa8ded)
-
-
----
-
-## Tech:
-
-  
-
-  
-  
-- We built the user interface with SwiftUI and seamlessly combined the Logic part with the Machine Learning component to ensure a holistic and user-friendly approach.
-- We use machine learning to understand the user's emotions and needs. Their input is processed to provide them with personalised advice and relaxation techniques. 
-- With the Text Classification we were able to discern emotions and meaning from the sentences, and process it to get a working ML system in wich Sleepot can actually answer to the user.
-- The app's animations and its mascot, both crafted in Blender, contribute to our dedication in creating a seamless and engaging user experience, rather than just being for aesthetic appeal.
-
----
-  
+![Frame 8](https://github.com/SaraHuLihua/Roachventures/assets/148463154/deb1f46b-db29-4cfc-9b2a-33a53b3f5e7a)
 
 
+## Screen Layout
 
+![Roachadventures](https://github.com/SaraHuLihua/Roachventures/assets/148463154/36fbf6c7-3a2b-44c7-be91-9ac81561fd4c)
+
+## Controls
+In the game, you can press right of the screen to go right and left to go left.
+
+![Frame 9](https://github.com/SaraHuLihua/Roachventures/assets/148463154/b2809c47-ec5c-491b-a85d-ce83577fe8aa)
+
+
+## Characters
+
+![RoachventuresIcon](https://github.com/SaraHuLihua/Roachventures/assets/148463154/d853bdac-566b-4c66-a827-c4aa60e0db4c)
 
 
