@@ -42,12 +42,6 @@ Sleepot, symbolized by the glass pot, is there to listen, guide, and support you
 ---
   
 
-<img width="1511" alt="Pasted Graphic 8" src="https://github.com/SaraHuLihua/Sleepot/assets/148463154/f5452b75-574b-42f0-9f73-74da73d682e2">
-
-
-      
-  
-<img width="1512" alt="Beer's Knees" src="https://github.com/SaraHuLihua/Sleepot/assets/148463154/a693747e-6e11-4cf6-8c29-5e3ba20cd62e">
 
 
 
