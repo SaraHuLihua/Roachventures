@@ -44,6 +44,7 @@ In the game, you can press right of the screen to go right and left to go left.
 
 ## Characters
 
-![RoachventuresIcon](https://github.com/SaraHuLihua/Roachventures/assets/148463154/d853bdac-566b-4c66-a827-c4aa60e0db4c)
+![Frame 10-2](https://github.com/SaraHuLihua/Roachventures/assets/148463154/372a89bc-ef07-4eca-b180-9812752f9db1)
+
 
 
