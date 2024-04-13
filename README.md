@@ -39,7 +39,8 @@ Will our hero be saved?
 ## Controls
 In the game, you can press right of the screen to go right and left to go left.
 
-![Frame 9](https://github.com/SaraHuLihua/Roachventures/assets/148463154/b2809c47-ec5c-491b-a85d-ce83577fe8aa)
+![Frame 11](https://github.com/SaraHuLihua/Roachventures/assets/148463154/a27203bc-f9fe-4cb4-a92a-f4960d1bbecc)
+
 
 
 ## Characters
